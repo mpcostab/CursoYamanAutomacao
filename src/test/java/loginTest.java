@@ -16,7 +16,7 @@ import java.util.Locale;
 
 public class loginTest {
     public WebDriver getDriver() {
-        System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         return new ChromeDriver();
     }
 

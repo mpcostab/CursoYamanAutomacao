@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43625297-3c1b-4035-96cf-b8436435ccd5" name="Default Changelist" comment="" />
+    <list default="true" id="086cae7c-d860-4438-9174-b2d2bd089611" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoYamanAutomacao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/loginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/loginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/loginTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectId" id="1PYbxrlEiLctiQxPoM4Qv3gixOF" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="ProjectId" id="1PEaFosqwja9lBSYL7Tj6oNH25z" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,14 +33,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.loginTest.cadastrar">
-    <configuration name="loginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loginTest" />
-      <module name="CursoYamanAutomacao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.loginTest.emailIncorreto">
     <configuration name="loginTest.cadastrar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CursoYamanAutomacao" />
       <option name="PACKAGE_NAME" value="" />
@@ -63,22 +54,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginTest.emailincorreto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CursoYamanAutomacao" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="loginTest" />
-      <option name="METHOD_NAME" value="emailincorreto" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.loginTest.cadastrar" />
         <item itemvalue="JUnit.loginTest.emailIncorreto" />
-        <item itemvalue="JUnit.loginTest.emailincorreto" />
-        <item itemvalue="Application.loginTest" />
+        <item itemvalue="JUnit.loginTest.cadastrar" />
       </list>
     </recent_temporary>
   </component>
@@ -87,19 +66,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="43625297-3c1b-4035-96cf-b8436435ccd5" name="Default Changelist" comment="" />
-      <created>1565441609249</created>
+      <changelist id="086cae7c-d860-4438-9174-b2d2bd089611" name="Default Changelist" comment="" />
+      <created>1566054226266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565441609249</updated>
+      <updated>1566054226266</updated>
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="faker.number().numberBetween(1, 1000)" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
