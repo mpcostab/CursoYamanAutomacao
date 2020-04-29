@@ -16,9 +16,13 @@ import java.util.Locale;
 
 public class loginTest {
 
+    private int variavelMaster;
+    private boolean varaivelMaster2 = true;
+    private String variavelMaster3 = "";
+
     private String variavel1 = "";
     private String variavel2 = "";
-    
+
     public WebDriver getDriver() {
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         return new ChromeDriver();
