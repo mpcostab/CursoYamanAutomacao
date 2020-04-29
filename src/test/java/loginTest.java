@@ -15,6 +15,10 @@ import javax.print.DocFlavor;
 import java.util.Locale;
 
 public class loginTest {
+
+    private String variavel1 = "";
+    private String variavel2 = "";
+    
     public WebDriver getDriver() {
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         return new ChromeDriver();
@@ -39,7 +43,6 @@ public class loginTest {
     //WebDriver driver = new ChromeDriver();
 
     @Test
-
     public void emailIncorreto() throws InterruptedException {
 
         //WebDriverWait wait = new WebDriverWait(driver, 10);
