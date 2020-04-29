@@ -15,6 +15,11 @@ import javax.print.DocFlavor;
 import java.util.Locale;
 
 public class loginTest {
+
+    private int variavelMaster;
+    private boolean varaivelMaster2 = true;
+    private String variavelMaster3 = "";
+
     public WebDriver getDriver() {
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         return new ChromeDriver();
