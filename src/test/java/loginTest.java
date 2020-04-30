@@ -93,6 +93,7 @@ public class loginTest {
     }
 
     public static void testeConflitoGit(){
+        System.out.println("Codigo branch 2");
         System.out.println("Codigo branch 1");
     }
 }
