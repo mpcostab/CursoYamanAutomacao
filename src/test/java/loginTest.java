@@ -91,5 +91,9 @@ public class loginTest {
     public void fim() {
         driver.quit();
     }
+
+    public static void testeConflitoGit(){
+        System.out.println("Codigo branch 1");
+    }
 }
 
